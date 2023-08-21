@@ -1,8 +1,8 @@
 URL repositorio: 
-
+https://github.com/camilabarrientoss/Anime
 
 Para clonar: 
-
+git clone https://github.com/camilabarrientoss/Anime.git
 
 INFORMACION:
 Se inicia proyecto con los siguientes comandos:

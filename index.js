@@ -54,7 +54,7 @@ app.get('/', async (req, res) => {
     }
     res.end();
 });
-//bici=animacion
+
 // ej: http://localhost:3000/read/1
 app.get('/read/:id', async (req, res) => {
     try {
